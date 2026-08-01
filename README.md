@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
