@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
