@@ -7,17 +7,17 @@ public:
 
         while (low <= high) {
 
-            int guess = (low + high) / 2;
+            int mid = (low + high) / 2;
 
-            if (nums[guess] == target) {
-                return guess;
+            if (nums[mid] == target) {
+                return mid;
             }
 
-            if (nums[guess] < target) {
-                low = guess + 1;
+            if (nums[mid] < target) {
+                low = mid + 1;
             }
             else {
-                high = guess - 1;
+                high = mid - 1;
             }
         }
 
