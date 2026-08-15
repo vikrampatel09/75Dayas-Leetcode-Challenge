@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1922-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -133,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
