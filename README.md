@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
