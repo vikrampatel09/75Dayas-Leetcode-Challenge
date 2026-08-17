@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 ## Counting
 |  |
