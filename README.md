@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1922-count-good-numbers) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0415-add-strings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
