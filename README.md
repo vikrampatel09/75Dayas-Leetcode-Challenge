@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
+| [0322-coin-change](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 ## Counting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0100-same-tree) |
+| [0322-coin-change](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
