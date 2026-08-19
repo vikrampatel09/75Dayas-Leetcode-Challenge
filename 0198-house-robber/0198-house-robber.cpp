@@ -1,14 +1,14 @@
 class Solution {
 public:
-int solve(vector<int>& nums , int index){
-    if(index >= nums.size()){
-        return 0;
-    }
-    int includeAns = nums[index] + solve(nums , index + 2);
-    int excludeAns = 0 + solve(nums , index + 1);
-    int finalAns = max(includeAns , excludeAns);
-    return finalAns;
-}
+// int solve(vector<int>& nums , int index){
+//     if(index >= nums.size()){
+//         return 0;
+//     }
+//     int includeAns = nums[index] + solve(nums , index + 2);
+//     int excludeAns = 0 + solve(nums , index + 1);
+//     int finalAns = max(includeAns , excludeAns);
+//     return finalAns;
+// }
 int solveUsingMem(vector<int>& nums , int index , vector<int>&dp){
     if(index >= nums.size()){
         return 0;
