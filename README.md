@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Counting
 |  |
 | ------- |
