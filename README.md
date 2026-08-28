@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0704-binary-search) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -196,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
