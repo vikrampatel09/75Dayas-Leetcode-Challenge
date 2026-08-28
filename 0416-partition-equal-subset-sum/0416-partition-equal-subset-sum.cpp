@@ -43,25 +43,55 @@ bool solveUsingMem(int index , vector<int>&nums, int target ,vector<vector<int>>
         return dp[index][target]; 
     }
 
+    //Tabulation method
 
-    bool canPartition(vector<int>& nums) { 
-        int sum = 0; 
+    bool solveUsingTabulation(vector<int>& nums, int target, vector<vector<int>>& dp) {
 
-        for(int i = 0 ; i < nums.size() ; i++){ 
-            sum += nums[i]; 
-        } 
+        int n = nums.size();
 
-        if(sum & 1){ 
-            return false; 
-        } 
+        for(int i = 0; i <= n; i++) {
+            dp[i][0] = 1;
+        }
 
-        int target = sum / 2; 
-        int index = 0; 
+        for(int index = n-1; index >= 0; index--) {
 
-        vector<vector<int>>dp(nums.size() , vector<int>(target + 1 , -1)); 
+            for(int t = 1; t <= target; t++) {
 
-        bool ans = solveUsingMem(index , nums , target,dp); 
+                bool include = 0;
 
-        return ans; 
-    } 
+                if(t - nums[index] >= 0)
+                    include = dp[index+1][t-nums[index]];
+
+                bool exclude = dp[index+1][t];
+
+                dp[index][t] = (include || exclude);
+            }
+        }
+
+        return dp[0][target];
+    }
+
+
+    bool canPartition(vector<int>& nums) {
+
+        int sum = 0;
+
+        for(int i = 0; i < nums.size(); i++) {
+            sum += nums[i];
+        }
+
+        if(sum & 1) {
+            return false;
+        }
+
+        int target = sum / 2;
+
+        int index = 0;
+
+        vector<vector<int>> dp(nums.size() + 1, vector<int>(target + 1, 0));
+
+        bool ans = solveUsingTabulation(nums, target, dp);
+
+        return ans;
+    }
 };
