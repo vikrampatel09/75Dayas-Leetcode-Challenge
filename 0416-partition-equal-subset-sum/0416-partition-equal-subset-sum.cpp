@@ -70,28 +70,48 @@ bool solveUsingMem(int index , vector<int>&nums, int target ,vector<vector<int>>
 
         return dp[0][target];
     }
+ 
+ // SPACE OPTIMIZATION
 
+ bool solveUsingTabulationSO(vector<int>& nums, int target) {
+        int n = nums.size();
+        
+        vector<int> curr(target+1, 0);
+        vector<int> next(target+1, 0);
+
+        curr[0] = 1;
+        next[0] = 1;
+
+        for(int index = n-1; index>=0; index--) {
+            for(int t = 1; t<=target; t++) {
+                bool include = 0;
+                if(t-nums[index] >=0)
+                    include = next[t-nums[index]];
+
+                bool exclude = next[t];
+
+                curr[t] = (include || exclude);
+            }
+            next = curr;
+        }
+
+        return next[target];
+    }
 
     bool canPartition(vector<int>& nums) {
 
         int sum = 0;
-
-        for(int i = 0; i < nums.size(); i++) {
+        for(int i=0; i<nums.size(); i++) {
             sum += nums[i];
         }
-
-        if(sum & 1) {
+        //yha hi galti karunga
+        if(sum & 1)
             return false;
-        }
-
-        int target = sum / 2;
-
+        int target = sum/2;
         int index = 0;
+        int n = nums.size();
+        bool ans = solveUsingTabulationSO(nums,target);
 
-        vector<vector<int>> dp(nums.size() + 1, vector<int>(target + 1, 0));
-
-        bool ans = solveUsingTabulation(nums, target, dp);
-
-        return ans;
+     return ans;
     }
 };
