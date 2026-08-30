@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1539-kth-missing-positive-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Counting
 |  |
@@ -101,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -223,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
