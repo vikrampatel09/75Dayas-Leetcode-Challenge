@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0415-add-strings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1922-count-good-numbers) |
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
