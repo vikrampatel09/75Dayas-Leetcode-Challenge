@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1539-kth-missing-positive-number) |
+| [2678-number-of-senior-citizens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
+| [2678-number-of-senior-citizens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2678-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
