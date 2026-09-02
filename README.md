@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2678-number-of-senior-citizens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2678-number-of-senior-citizens) |
 ## Stack
 |  |
