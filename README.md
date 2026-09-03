@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2678-number-of-senior-citizens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2678-number-of-senior-citizens) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0791-custom-sort-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0791-custom-sort-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## String
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2678-number-of-senior-citizens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2678-number-of-senior-citizens) |
