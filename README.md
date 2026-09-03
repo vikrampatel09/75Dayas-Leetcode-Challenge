@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2678-number-of-senior-citizens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2678-number-of-senior-citizens](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2678-number-of-senior-citizens) |
 ## Stack
 |  |
