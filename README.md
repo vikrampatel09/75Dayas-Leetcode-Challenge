@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -296,5 +297,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
