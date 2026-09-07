@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0374-guess-number-higher-or-lower) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
