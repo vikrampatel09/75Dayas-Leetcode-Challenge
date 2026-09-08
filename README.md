@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1539-kth-missing-positive-number) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
