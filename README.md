@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0791-custom-sort-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0791-custom-sort-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0791-custom-sort-string) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
