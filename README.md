@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0791-custom-sort-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0791-custom-sort-string) |
+| [1189-maximum-number-of-balloons](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Prefix Sum
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## String
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
