@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0409-longest-palindrome) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
