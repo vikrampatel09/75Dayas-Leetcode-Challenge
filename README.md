@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0791-custom-sort-string) |
+| [0904-fruit-into-baskets](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Prefix Sum
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
