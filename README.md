@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Prefix Sum
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0415-add-strings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0415-add-strings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1922-count-good-numbers) |
 ## Trie
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
