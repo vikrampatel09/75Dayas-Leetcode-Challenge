@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0791-custom-sort-string) |
+| [0844-backspace-string-compare](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1108-defanging-an-ip-address) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 ## Memoization
 |  |
 | ------- |
