@@ -1,23 +1,17 @@
 class Solution {
 public:
-
-    void solve(vector<char>& s, int start, int end) {
-
-        // Base case
-        if (start >= end) {
-            return;
-        }
-
-        // Swap first and last
-        swap(s[start], s[end]);
-
-        solve(s, start + 1, end - 1);
-    }
-
     void reverseString(vector<char>& s) {
 
-        int n = s.size();
+        stack<char> st;
 
-        solve(s, 0, n - 1);
+        for(char ch : s) {
+            st.push(ch);
+        }
+
+    
+        for(int i = 0; i < s.size(); i++) {
+            s[i] = st.top();
+            st.pop();
+        }
     }
 };
