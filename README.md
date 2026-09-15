@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
