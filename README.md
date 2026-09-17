@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0682-baseball-game) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0791-custom-sort-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/0496-next-greater-element-i) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikrampatel09/75Dayas-Leetcode-Challenge/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Cartesian Tree
 |  |
